@@ -1,4 +1,4 @@
-# MultiSource-Crop-Classification
+# Crop-Classification
 
 Deep learning project for crop type classification using multi-temporal Sentinel-2 satellite imagery and environmental covariates.
 
