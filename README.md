@@ -97,7 +97,7 @@ Example outputs:
 
 - KAMELI Moncef
 - Hadj-Ameur Ahmed
-- Bentlidjan Souheil
+- Bentelidjan Souheil
 
 ---
 
